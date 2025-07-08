@@ -6,9 +6,12 @@
   --font-caslon: 'Adobe Caslon Pro', serif;
   --font-mono: 'Space Mono', monospace;
 }
+
 body {
   @apply bg-vwBg bg-grain text-vwRed font-caslon;
 }
+
+
 @layer utilities {
   .bg-grain {
     background-image: 
