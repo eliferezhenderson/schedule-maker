@@ -322,7 +322,7 @@ export default function HomePage() {
             </label>
             
            
-            <div className="col-span-full text-xs italic text-vwRed">Leave one of the two above blank to auto-calc.</div>
+            <div className="col-span-full text-s italic text-vwRed">Leave one of the two above blank to auto-calc.</div>
             <label className="flex flex-col gap-1 text-sm">
               Number of Breaks
               <input
