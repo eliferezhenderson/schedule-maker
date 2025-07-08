@@ -4,6 +4,7 @@ import './fonts.css';
 
 import { EB_Garamond, Space_Mono } from 'next/font/google';
 
+
 const caslon = EB_Garamond({
   subsets: ['latin'],
   variable: '--font-caslon',
@@ -22,6 +23,7 @@ export const metadata = {
   description: 'Build quick, editable critique and meeting schedules.',
 };
 
+
 export default function RootLayout({
   children,
 }: {
@@ -35,3 +37,4 @@ export default function RootLayout({
     </html>
   );
 }
+
