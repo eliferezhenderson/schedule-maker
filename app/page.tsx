@@ -212,7 +212,7 @@ export default function HomePage() {
       <div className="max-w-4xl mx-auto">
         {/* top bar */}
         <div className="flex justify-between items-center font-mono text-xs mb-4">
-          <div>SCHEDULE-MAKER [BETA]</div>
+          <div>TIME-SLICER [BETA]</div>
           <div>{currentTime}</div>
         </div>
 
