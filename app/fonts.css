@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('/fonts/ACaslonPro-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+  
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('/fonts/ACaslonPro-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
